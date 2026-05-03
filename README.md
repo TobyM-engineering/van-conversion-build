@@ -1,42 +1,56 @@
 # Van Conversion Build
 
-This repository documents my DIY camper van conversion project, including the electrical system, solar/shore charging setup, inverter integration, control panel, plumbing, lighting, and interior build work.
+This repository documents my DIY camper van conversion, including the electrical system, solar and shore charging, plumbing, interior work, parts used, photos, and troubleshooting notes.
 
-## Project Overview
+The goal is to make this useful for anyone building or planning their own camper van setup. I’ll be adding real build photos, wiring notes, parts lists, mistakes I ran into, and things I would do differently next time.
 
-The goal of this project was to build a functional off-grid van electrical and utility system using a LiFePO4 house battery, solar charging, shore charging, inverter power, DC loads, and a custom control panel.
+## What This Build Includes
 
-## Main Systems
+- Off-grid electrical system
+- Solar charging
+- Shore power charging
+- 3000W inverter setup
+- LiFePO4 house battery
+- DC fuse/control panel
+- Fridge, lights, pump, and accessory wiring
+- Sink and plumbing setup
+- Interior panels and mounting
+- Troubleshooting notes
+- Build photos and progress updates
+
+## Main Electrical Components
 
 - 200Ah LiFePO4 house battery
 - 3000W pure sine wave inverter
 - Renogy Rover 40A MPPT solar charge controller
 - NOCO 10A shore charger
-- Solar, shore, and inverter power integration
-- DC control panel for pump, fridge, lights, and accessories
-- Interior wiring, mounting, troubleshooting, and system testing
+- Solar panels
+- DC fuse panel / control panel
+- 12V loads including lights, pump, and fridge
 
-## Skills Demonstrated
+## Plumbing
 
-- Electrical system planning and wiring
-- DC power distribution
-- Solar and shore charging integration
-- Battery safety and load management
-- Troubleshooting voltage drop and charger behavior
-- Mechanical installation and interior build work
-- Documentation and system organization
+This section will document the water system, including the sink, water pump, tubing, fittings, drainage, and any fixes or improvements made during the build.
 
-## Repository Contents
+Planned plumbing notes:
 
-- `/photos` — build photos and progress images
-- `/wiring-diagrams` — electrical diagrams and layout notes
-- `/parts-list` — major components used
-- `/notes` — troubleshooting notes and future improvements
+- Fresh water setup
+- Sink installation
+- Pump wiring and plumbing
+- Drain line setup
+- Leak testing
+- Caulking/sealing notes
+- Things I would change next time
 
-## Future Improvements
+## Photos
 
-- Add cleaner wiring diagrams
-- Add a full parts list with ratings
-- Add updated photos of the control panel
-- Add voltage monitoring documentation
-- Add alternator/DC-DC charging option research
+Photos will be added throughout the repository to show the build process, wiring layout, plumbing setup, interior progress, and final results.
+
+Recommended folders:
+
+```txt
+photos/
+photos/electrical/
+photos/plumbing/
+photos/interior/
+photos/before-after/
