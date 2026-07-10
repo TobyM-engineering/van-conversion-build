@@ -54,6 +54,10 @@ The system includes a 3000W inverter for AC power, a solar charge controller for
   <img src="photos/control-panel.jpg" width="300">
 </p>
 
+<p align="center">
+  <b>Battery + Inverter</b> &nbsp;&nbsp;&nbsp; <b>Fuse Box + Wiring</b> &nbsp;&nbsp;&nbsp; <b>Control Panel</b>
+</p>
+
 Main goals for the electrical system:
 
 - Safe power distribution
@@ -70,6 +74,10 @@ The van can charge from both solar power and shore power. The solar charge contr
 <p align="center">
   <img src="photos/solar-charge-controller.jpg" width="300">
   <img src="photos/shore-power-charger.jpg" width="300">
+</p>
+
+<p align="center">
+  <b>Solar Charge Controller</b> &nbsp;&nbsp;&nbsp; <b>Shore Power Charger</b>
 </p>
 
 ## Plumbing
@@ -112,9 +120,28 @@ Interior work included:
 
 Photos are organized throughout the repository to show the build process, electrical layout, plumbing setup, interior progress, and final results.
 
-```txt
+~~~txt
 photos/
 photos/electrical/
 photos/plumbing/
 photos/interior/
 photos/before-after/
+~~~
+
+## Things I Learned
+
+- Plan wiring access before closing walls or panels
+- Leave service room around electrical components
+- Label wires early
+- Test each electrical section before final installation
+- Keep plumbing accessible for leak checks
+- Interior layout matters as much as the electrical system
+- Small design changes make a big difference once the van is being used
+
+## Future Improvements
+
+- Add cleaner wiring labels
+- Add more detailed wiring diagrams
+- Add more detailed plumbing diagrams
+- Continue improving storage and service access
+- Add more photos showing the full build process
