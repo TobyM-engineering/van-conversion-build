@@ -127,21 +127,3 @@ photos/plumbing/
 photos/interior/
 photos/before-after/
 ~~~
-
-## Things I Learned
-
-- Plan wiring access before closing walls or panels
-- Leave service room around electrical components
-- Label wires early
-- Test each electrical section before final installation
-- Keep plumbing accessible for leak checks
-- Interior layout matters as much as the electrical system
-- Small design changes make a big difference once the van is being used
-
-## Future Improvements
-
-- Add cleaner wiring labels
-- Add more detailed wiring diagrams
-- Add more detailed plumbing diagrams
-- Continue improving storage and service access
-- Add more photos showing the full build process
