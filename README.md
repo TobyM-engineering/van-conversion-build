@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="photos/finished-interior%20%282%29.jpg" width="800">
+</p>
+
+<p align="center">
+  <img src="photos/finished-exterior.JPG" width="800">
+</p>
+
 # Van Conversion Build
 
-This repository documents my camper van conversion, including the electrical system, solar and shore charging, plumbing, interior build, parts used, photos, and troubleshooting notes.
+A full camper van conversion combining interior fabrication, 12V electrical power, solar charging, shore charging, plumbing, lighting, storage, and custom woodworking.
 
-The goal of this project was to build a functional van interior from the ground up, including the flooring, walls, ceiling, bed frame, storage, desk/work area, sink, plumbing, lighting, and full electrical system.
-
-This repo includes real build photos, wiring notes, plumbing notes, parts used, mistakes I ran into, and things I would change next time.
+This project documents the process of building the van interior from the ground up, including the flooring, walls, ceiling, bed frame, storage, desk/work area, sink, plumbing, lighting, and electrical system.
 
 ## What This Build Includes
 
@@ -45,6 +51,18 @@ The van uses a 12V house battery system to power the lights, fridge, water pump,
 
 The system includes a 3000W inverter for AC power, a solar charge controller for off-grid charging, a fuse/control panel for protected DC loads, and separate wiring runs for the main accessories.
 
+<p align="center">
+  <img src="photos/battery-inverter%20%282%29.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="photos/fuse-box-wiring.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="photos/control-panel.jpg" width="700">
+</p>
+
 Main goals for the electrical system:
 
 - Safe power distribution
@@ -54,9 +72,25 @@ Main goals for the electrical system:
 - Reliable charging from solar or shore power
 - Enough power for real use inside the van
 
+## Charging System
+
+The van can charge from both solar power and shore power. The solar charge controller handles off-grid charging, while the shore charger allows the battery to be charged from a standard wall outlet.
+
+<p align="center">
+  <img src="photos/solar-charge-controller.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="photos/shore-power-charger.jpg" width="700">
+</p>
+
 ## Plumbing
 
 This section documents the water system, including the sink, water pump, tubing, fittings, drainage, and fixes made during the build.
+
+<p align="center">
+  <img src="photos/plumbing-system.jpg" width="700">
+</p>
 
 Plumbing notes:
 
@@ -89,8 +123,6 @@ Interior work included:
 ## Photos
 
 Photos are organized throughout the repository to show the build process, electrical layout, plumbing setup, interior progress, and final results.
-
-Recommended folders:
 
 ```txt
 photos/
