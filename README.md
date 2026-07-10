@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="photos/finished-interior%20%282%29.jpg" width="800">
+  <img src="photos/finished-interior%20%282%29.jpg" width="300">
 </p>
 
 <p align="center">
-  <img src="photos/finished-exterior.JPG" width="800">
+  <img src="photos/finished-exterior.JPG" width="300">
 </p>
 
 # Van Conversion Build
