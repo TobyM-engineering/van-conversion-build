@@ -4,35 +4,34 @@
   <img src="photos/plumbing-system.jpg" width="300">
 </p>
 
-This section documents the sink and water system installed in the van conversion.
+This section documents the water system installed in the van conversion, including the sink, fresh water tank, gray water tank, pump, filters, tubing, and drain setup.
 
-## What Was Installed
+## System Layout
 
-- Sink and countertop area
-- Fresh water tank
-- Water pump
-- Tubing and fittings
-- Drain line
-- Sealed sink edges
-- Plumbing access points for maintenance
+The plumbing system is built around a fresh water tank, a 12V water pump, inline filters, the sink, and a gray water tank mounted under the sink.
 
-## System Overview
+Water flows from the fresh water tank into the pump, then through the filters, and finally to the sink. Used water drains from the sink into the gray water tank below.
 
-The plumbing system was built to support basic water use inside the van. A fresh water tank supplies the sink through a 12V pump, with tubing routed through the interior framing.
+## Installation Process
 
-The sink, pump, and drain setup were installed with access in mind so leaks, fittings, and wiring can be checked or repaired later.
+- Cut the countertop opening for the sink
+- Installed the sink into the counter
+- Mounted the gray water tank under the sink
+- Installed the fresh water tank inside the van
+- Connected the tank outlet to the 12V pump
+- Routed tubing from the pump toward the sink
+- Added filters under the sink before the water reaches the faucet
+- Installed the drain line from the sink into the gray water tank
+- Checked the system for leaks and adjusted the tubing layout
 
-## Testing and Fixes
+## Water Flow
 
-- Checked pump operation
-- Tested water flow to the sink
-- Checked fittings for leaks
-- Sealed areas around the sink
-- Adjusted tubing layout for better access
+The fresh water tank has a fill/input side and an output side. The output is located near the bottom of the tank so water can feed into the pump.
 
-## Things I Learned
+From there, the pump pressurizes the water and pushes it through the plumbing line toward the sink. The water passes through filters before reaching the faucet, making the setup cleaner and more reliable.
 
-- Leave room to access fittings and tubing
-- Test for leaks before closing panels
-- Keep pump wiring and plumbing easy to reach
-- Small layout changes make maintenance much easier
+## Design Notes
+
+The system was installed with access in mind. The pump, filters, tank connections, and drain line were placed so they can be inspected, tightened, or replaced without tearing apart the interior.
+
+This makes the plumbing easier to maintain and helps catch leaks or fitting issues before they become bigger problems.
