@@ -1,8 +1,5 @@
 <p align="center">
   <img src="photos/finished-interior%20%282%29.jpg" width="300">
-</p>
-
-<p align="center">
   <img src="photos/finished-exterior.JPG" width="300">
 </p>
 
@@ -52,15 +49,9 @@ The van uses a 12V house battery system to power the lights, fridge, water pump,
 The system includes a 3000W inverter for AC power, a solar charge controller for off-grid charging, a fuse/control panel for protected DC loads, and separate wiring runs for the main accessories.
 
 <p align="center">
-  <img src="photos/battery-inverter%20%282%29.jpg" width="700">
-</p>
-
-<p align="center">
-  <img src="photos/fuse-box-wiring.jpg" width="700">
-</p>
-
-<p align="center">
-  <img src="photos/control-panel.jpg" width="700">
+  <img src="photos/battery-inverter%20%282%29.jpg" width="300">
+  <img src="photos/fuse-box-wiring.jpg" width="300">
+  <img src="photos/control-panel.jpg" width="300">
 </p>
 
 Main goals for the electrical system:
@@ -77,11 +68,8 @@ Main goals for the electrical system:
 The van can charge from both solar power and shore power. The solar charge controller handles off-grid charging, while the shore charger allows the battery to be charged from a standard wall outlet.
 
 <p align="center">
-  <img src="photos/solar-charge-controller.jpg" width="700">
-</p>
-
-<p align="center">
-  <img src="photos/shore-power-charger.jpg" width="700">
+  <img src="photos/solar-charge-controller.jpg" width="300">
+  <img src="photos/shore-power-charger.jpg" width="300">
 </p>
 
 ## Plumbing
@@ -89,7 +77,7 @@ The van can charge from both solar power and shore power. The solar charge contr
 This section documents the water system, including the sink, water pump, tubing, fittings, drainage, and fixes made during the build.
 
 <p align="center">
-  <img src="photos/plumbing-system.jpg" width="700">
+  <img src="photos/plumbing-system.jpg" width="300">
 </p>
 
 Plumbing notes:
