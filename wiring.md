@@ -1,6 +1,3 @@
-Copy this whole thing into **wiring.md**:
-
-````md
 # Wiring System
 
 This section explains how the van electrical wiring is organized and how power moves through the system.
@@ -129,6 +126,3 @@ The wiring layout was built around:
 * Separate AC and DC systems
 * Reliable charging from solar or shore power
 * Enough power for real use inside the van
-
-```
-```
